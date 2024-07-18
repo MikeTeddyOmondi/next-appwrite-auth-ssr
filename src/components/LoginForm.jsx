@@ -10,7 +10,6 @@ const LoginForm = () => {
                         name="email"
                         type="email"
                         placeholder="Enter email..."
-                        defaultValue={"dennis@appwrite.io"}
                     />
                 </div>
 
@@ -20,7 +19,6 @@ const LoginForm = () => {
                         name="password"
                         type="password"
                         placeholder="Enter password..."
-                        defaultValue={"password123"}
                     />
                 </div>
 
